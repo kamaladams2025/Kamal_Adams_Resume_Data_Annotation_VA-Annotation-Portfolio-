@@ -1,0 +1,17 @@
+portuguese,english,frequency_rank,pos_tag,gender_variation,confidence_flag,notes
+bom,good,1,ADJ,bom/boa,high,"Irregular comparative (melhor); placement before noun shifts meaning toward subjective/figurative sense"
+novo,new,2,ADJ,novo/nova,high,"Placement before noun = 'different/another'; after noun = 'brand new' -- position-dependent meaning"
+grande,"big, great",3,ADJ,invariable,high,"Same form both genders; placement before noun = 'great/important', after = 'large in size'"
+pequeno,small,4,ADJ,pequeno/pequena,high,Regular adjective
+outro,other,5,ADJ,outro/outra,medium,"Functions as adjective or indefinite pronoun depending on context"
+próprio,own,6,ADJ,próprio/própria,medium,"Also used adverbially to mean 'itself/himself' -- requires context to disambiguate"
+importante,important,7,ADJ,invariable,high,Same form both genders
+diferente,different,8,ADJ,invariable,high,Same form both genders
+certo,"certain, right",9,ADJ,certo/certa,low,"Before noun = 'a certain (unspecified)'; after noun/with 'estar' = 'correct' -- meaning shifts with position"
+claro,clear,10,ADJ,claro/clara,medium,"Also functions as a standalone interjection ('of course!')"
+feliz,happy,11,ADJ,invariable,high,Same form both genders
+bonito,beautiful,12,ADJ,bonito/bonita,high,Regular adjective
+fácil,easy,13,ADJ,invariable,high,Same form both genders
+difícil,difficult,14,ADJ,invariable,high,Same form both genders
+velho,old,15,ADJ,velho/velha,medium,"Before noun can imply 'longstanding/familiar' rather than literal age"
+forte,strong,16,ADJ,invariable,high,Same form both genders

@@ -1,0 +1,21 @@
+portuguese,english,frequency_rank,pos_tag,conjugation_class,irregularity_flag,notes
+ser,to be,1,V,irregular,high,"Used for permanent/inherent states; commonly confused with estar by learners"
+ter,to have,2,V,irregular,high,"Also used idiomatically for age (tenho 20 anos) and obligation (tenho que)"
+estar,"to be, to be located",3,V,irregular,high,"Used for temporary states/location; false-friend risk with Spanish 'estar' which has narrower idiomatic range"
+ir,to go,4,V,irregular,high,"Also forms the periphrastic future (ir + infinitive), highest-frequency way to express future tense in spoken PT"
+poder,"to be able to, can",5,V,irregular,medium,Modal verb
+fazer,"to do, to make",6,V,irregular,high,"Used idiomatically for weather and time elapsed (faz dois anos) -- high false-friend risk in translation"
+querer,to want,7,V,irregular,medium,Stem-changing irregular
+saber,to know,8,V,irregular,medium,"Knowledge of facts/skills, contrasts with conhecer (to know/be familiar with) -- common annotation ambiguity point"
+ver,to see,9,V,irregular,medium,Irregular preterite
+dizer,"to say, to tell",10,V,irregular,high,Highly irregular across tenses
+dar,to give,11,V,irregular,medium,Irregular preterite stem
+vir,to come,12,V,irregular,high,"Frequently confused with ir in rapid speech due to phonetic similarity"
+achar,"to find, to think",13,V,regular,low,"'To think/believe' sense is idiomatic, not literal translation of 'find'"
+ficar,"to stay, to become",14,V,regular,medium,"Wide semantic range (location, result, duration) -- meaning is highly context-dependent"
+pôr,to put,15,V,irregular,high,"Only -er verb with irregular infinitive spelling; compounds (propor, supor) follow same irregular pattern"
+usar,to use,16,V,regular,low,Regular -ar verb
+falar,to speak,17,V,regular,low,Regular -ar verb
+gostar,to like,18,V,regular,medium,"Requires preposition 'de' (gostar de) -- common error point for English/Spanish speakers"
+comer,to eat,19,V,regular,low,Regular -er verb
+trabalhar,to work,20,V,regular,low,Regular -ar verb

@@ -1,0 +1,161 @@
+context_domain,vocabulary,pinyin,pos_source,pos_verified,confidence_flag,notes
+個人資料,我,wǒ,N,N,high,
+個人資料,你/妳,nǐ,N,N,high,
+個人資料,他/她,tā,N,N,high,
+個人資料,我們,wǒmen,N,N,high,
+個人資料,你們/妳們,nǐmen,N,N,high,
+個人資料,他們/她們,tāmen,N,N,high,
+個人資料,您,nín,N,N,high,formal register of 你
+個人資料,誰,shéi,N,N,high,interrogative pronoun
+個人資料,姓名,xìngmíng,N,N,high,
+個人資料,人,rén,N,N,high,
+個人資料,國,guó,N,N,high,
+個人資料,中國,zhōngguó,N,N,high,
+個人資料,美國,měiguó,N,N,high,
+個人資料,日本,rìběn,N,N,high,
+個人資料,台灣/臺灣,táiwān,N,N,high,two accepted character variants for the same place name
+個人資料,名字(˙ㄗ),míngzi,N,N,high,neutral-tone suffix marked in source
+個人資料,家,jiā,N,N,high,
+個人資料,電話,diànhuà,N,N,high,
+個人資料,時間,shíjiān,N,N,high,
+個人資料,小時,xiǎoshí,N,N,high,
+個人資料,現在,xiànzài,N,N,high,
+個人資料,今年,jīnnián,N,N,high,
+個人資料,今天,jīntiān,N,N,high,
+個人資料,明天,míngtiān,N,N,high,
+個人資料,昨天,zuótiān,N,N,high,
+個人資料,早上,zǎoshàng,N,N,high,
+個人資料,上午,shàngwǔ,N,N,high,
+個人資料,中午,zhōngwǔ,N,N,high,
+個人資料,下午,xiàwǔ,N,N,high,
+個人資料,晚上,wǎnshàng,N,N,high,
+個人資料,一,yī,N,Num,medium,"source tags as N; functionally a numeral (Num), reclassified for consistency with measure-word pairing"
+個人資料,二,èr,N,Num,medium,same reclassification as 一
+個人資料,三,sān,N,Num,medium,same reclassification as 一
+個人資料,四,sì,N,Num,medium,same reclassification as 一
+個人資料,五,wǔ,N,Num,medium,same reclassification as 一
+個人資料,六,liù,N,Num,medium,same reclassification as 一
+個人資料,七,qī,N,Num,medium,same reclassification as 一
+個人資料,八,bā,N,Num,medium,same reclassification as 一
+個人資料,九,jiǔ,N,Num,medium,same reclassification as 一
+個人資料,十,shí,N,Num,medium,same reclassification as 一
+個人資料,兩,liǎng,N,Num,medium,"used instead of 二 directly before measure words (兩個, not 二個)"
+個人資料,時候,shíhòu,N,N,high,
+個人資料,百,bǎi,N,Num,medium,same reclassification as 一
+個人資料,半,bàn,N,Num,medium,"functions as 'half' -- numeral-adjacent, source N retained as acceptable alternate"
+個人資料,千,qiān,N,Num,medium,same reclassification as 一
+個人資料,爸爸/爸,bàba/bà,N,N,high,full and clipped forms both standard
+個人資料,媽媽/媽,māma/mā,N,N,high,full and clipped forms both standard
+個人資料,哥哥/哥,gēge/gē,N,N,high,full and clipped forms both standard
+個人資料,弟弟/弟,dìdi/dì,N,N,high,full and clipped forms both standard
+個人資料,姊姊/姐姐/姊/姐,jiějie/jiě,N,N,high,regional character variants (姊 vs 姐) both standard in Taiwan usage
+個人資料,妹妹/妹,mèimei/mèi,N,N,high,full and clipped forms both standard
+個人資料,小孩(子),xiǎohái(zi),N,N,high,optional neutral-tone suffix marked in source
+個人資料,的,de,Ptc,Ptc,high,possessive/attributive particle
+個人資料,第,dì,Det,Det,high,ordinal-number marker
+個人資料,分,fēn,M,M,high,"measure word for minutes; also a unit of currency in other contexts"
+個人資料,點,diǎn,M,M,high,measure word for o'clock
+個人資料,個,ge,M,M,high,general/default measure word
+個人資料,歲,suì,M,M,high,measure word for age in years
+個人資料,年,nián,M,M,high,measure word for years
+個人資料,住,zhù,V,V,high,
+個人資料,來,lái,V,V,high,
+個人資料,是,shì,Vst,Vst,high,stative verb "to be"
+個人資料,姓,xìng,Vst,Vst,high,"stative verb 'to be surnamed'; also functions as N (surname)"
+個人資料,覺得,juéde,Vst,Vst,high,
+個人資料,喜歡,xǐhuān,Vst,Vst,high,
+個人資料,打電話,dǎdiànhuà,Vi,Vi,medium,"separable verb-object compound (打 + 電話); intransitive as listed but can take time/duration complements"
+個人資料,漂亮,piàolìang,Vs,Vs,high,state verb (adjective-class)
+個人資料,高,gāo,Vs,Vs,high,
+個人資料,老,lǎo,Vs,Vs,medium,"also functions as a prefix of familiarity (老師, 老外) -- POS depends on compound vs. standalone use"
+個人資料,好,hǎo,Adv,Vs/Adv,low,"source tags as Adv; 好 is Vs (stative verb, 'good') in most contexts but functions as an intensifying adverb before another adjective (好漂亮 = 'so pretty') -- genuinely dual-category, source tag reflects only the adverbial use"
+個人資料,很,hěn,Adv,Adv,high,
+個人資料,真,zhēn,Adv,Adv,high,
+工作,電腦,diànnǎo,N,N,high,
+工作,老師,lǎoshī,N,N,high,
+工作,買,mǎi,V,V,high,
+工作,忙,máng,Vs,Vs,high,
+教育,學生,xuéshēng,N,N,high,
+教育,大學,dàxué,N,N,high,
+教育,學校,xuéxiào,N,N,high,
+教育,中文,zhōngwén,N,N,high,
+教育,同學,tóngxué,N,N,high,
+教育,字,zì,N,N,high,
+教育,筆,bǐ,N,N,high,
+教育,學,xué,V,V,high,
+教育,問,wèn,V,V,high,
+教育,說,shuō,V,V,high,
+教育,寫,xiě,V,V,high,
+教育,聽,tīng,V,V,high,
+教育,對,duì,Vs,Vs,high,"also used as a standalone interjection meaning 'correct/right'"
+教育,能,néng,Vaux,Vaux,high,modal auxiliary
+教育,可以,kěyǐ,Vaux,Vaux,high,modal auxiliary
+教育,上課,shàngkè,V-sep,V-sep,high,separable verb-object compound
+教育,知道,zhīdào,Vst,Vst,high,
+房屋與家庭、環境,電視(機),diànshì(jī),N,N,high,optional suffix marked in source
+房屋與家庭、環境,水,shuǐ,N,N,high,
+日常生活,久,jiǔ,Vs-pred,Vs-pred,high,predicative-only state verb (duration)
+閒暇時間、娛樂,早,zǎo,Vs,Vs,high,
+閒暇時間、娛樂,再,zài,Adv,Adv,high,
+閒暇時間、娛樂,書,shū,N,N,high,
+閒暇時間、娛樂,電影,diànyǐng,N,N,high,
+閒暇時間、娛樂,以前,yǐqián,N,N,high,
+閒暇時間、娛樂,以後,yǐhòu,N,N,high,
+閒暇時間、娛樂,走,zǒu,V,V,high,
+閒暇時間、娛樂,等,děng,V,V,high,
+閒暇時間、娛樂,看,kàn,V,V,high,
+閒暇時間、娛樂,就,jiù,Adv,Adv,high,
+與他人的關係,什麼/甚麼,shénme,N,N,high,two accepted character variants
+與他人的關係,朋友,péngyǒu,N,N,high,
+與他人的關係,東西,dōngxi,N,N,high,
+與他人的關係,吧,ba,Ptc,Ptc,high,sentence-final suggestion/softening particle
+與他人的關係,呢,ne,Ptc,Ptc,high,sentence-final question particle
+與他人的關係,嗎,ma,Ptc,Ptc,high,yes/no question particle
+與他人的關係,找,zhǎo,V,V,high,
+與他人的關係,做,zuò,V,V,high,
+與他人的關係,再見,zàijiàn,Vi,Vi,high,
+與他人的關係,怎麼樣,zěnmeyàng,Vs,Vs,high,
+與他人的關係,叫,jiào,Vst/V,Vst/V,medium,"dual category in source itself -- Vst ('to be named') vs. V ('to call/summon'); kept as-is, genuinely context-dependent"
+與他人的關係,謝謝,xièxie,Vst,Vst,high,
+與他人的關係,對不起,duìbùqǐ,(blank),Inj,medium,"POS field left blank in source list -- corrected here to Inj (interjection/fixed expression), standard classification for apology formulas"
+與他人的關係,請問,qǐngwèn,(blank),V,medium,"POS field left blank in source list -- corrected here to V (polite request-marker verb, 'may I ask')"
+旅行,這,zhè,Det,Det,high,
+旅行,那,nà,Det,Det,high,
+旅行,公共汽車/公車,gōnggòngqìchē/gōngchē,N,N,high,full and clipped forms both standard
+旅行,車(子),chē(zi),N,N,high,optional suffix marked in source
+旅行,到,dào,V,V,high,"also functions as a verb complement/resultative marker in compounds"
+旅行,去,qù,V,V,high,
+旅行,回,huí,V,V,high,
+旅行,坐,zuò,Vi,Vi,high,
+旅行,這裡/這裏/這兒,zhèlǐ/zhèr,N,N,high,regional/character variants
+旅行,那裡/那裏/那兒,nàlǐ/nàr,N,N,high,regional/character variants
+旅行,哪裡/哪裏/哪兒,nǎlǐ/nǎr,N,N,high,regional/character variants
+旅行,開車,kāichē,V-sep,V-sep,high,separable verb-object compound
+購物,錢,qián,N,N,high,
+購物,多少,duōshǎo,N,N,high,interrogative quantity word
+購物,給,gěi,V,V,high,"also functions as a preposition (to/for) in ditransitive constructions"
+購物,貴,guì,Vs,Vs,high,
+購物,便宜,piányí,Vs,Vs,high,
+購物,大,dà,Vs,Vs,high,
+購物,小,xiǎo,Vs,Vs,high,
+購物,難,nán,Vs,Vs,high,
+購物,容易,róngyì,Vs,Vs,high,
+購物,有,yǒu,Vst,Vst,high,
+購物,想,xiǎng,Vst,Vst,medium,"also functions as Vaux ('want to,' before a verb) depending on whether followed by a noun or a verb phrase"
+飲食,幾,jǐ,Det,Det,high,interrogative quantity determiner
+飲食,塊,kuài,M,M,high,measure word for currency units and chunks
+飲食,位,wèi,M,M,high,polite measure word for people
+飲食,飯,fàn,N,N,high,
+飲食,吃,chī,V,V,high,
+飲食,請,qǐng,V,V,high,"polite request/invitation verb; also functions as a sentence-initial politeness marker"
+其他,也,yě,Adv,Adv,high,
+其他,不,bù,Adv,Adv,high,negation adverb
+其他,沒,méi,Adv,Adv,high,negation adverb (for 有/completed actions)
+其他,都,dōu,Adv,Adv,high,
+其他,只,zhǐ,Adv,Adv,high,
+其他,可是,kěshì,Conj,Conj,high,
+其他,還是,háishì,Conj,Conj,medium,"also functions as Adv ('still/nevertheless') depending on clause position"
+其他,了,le,Ptc,Ptc,high,aspect/completion particle
+其他,得,de,Ptc,Ptc,high,"complement-marking particle; note tonal/character overlap risk with 的 and 地 for learners"
+其他,過,guò,Ptc,Ptc,high,experiential-aspect particle
+其他,沒有,méiyǒu,Ptc,Vst,medium,"source tags as Ptc; functions as the negated form of 有 (Vst) rather than a true particle -- reclassified"

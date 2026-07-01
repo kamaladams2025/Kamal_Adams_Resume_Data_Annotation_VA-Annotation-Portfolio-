@@ -1,0 +1,10 @@
+log_id,row_reference,field,original_value,issue_type,corrected_value,severity,reviewer_note,status
+0001,row_2,pos_tag,N,mislabel,V,high,"'correr' (to run) is an infinitive verb, not a noun -- likely a copy-paste/fill-down error from an adjacent row",resolved
+0002,row_3,spanish,Rápido,formatting,rápido,low,"Headword column should be lowercase throughout for consistent sorting/matching; capitalization inconsistent with rest of dataset",resolved
+0003,row_4,spanish,el perro,scope_inconsistency,perro,medium,"Entry includes the article 'el' while every other noun entry is a bare headword -- breaks consistency for downstream lookup/matching",resolved
+0004,row_4,english,the dog,scope_inconsistency,dog,medium,"Gloss updated to match corrected bare-headword convention in the Spanish column",resolved
+0005,row_6,(entire row),hablar / to speak / V,duplicate,row removed,medium,"Exact duplicate of row_5 -- would double-weight this entry in any frequency-based downstream use",resolved
+0006,row_7,english,"pretty ",formatting,pretty,low,"Trailing whitespace -- causes exact-string-match failures in downstream lookups despite being visually identical",resolved
+0007,row_9,spanish,ESCUELA,formatting,escuela,low,"All-caps entry inconsistent with lowercase convention used throughout the rest of the dataset",resolved
+0008,row_10,english,because,mistranslation,why,high,"False-friend/near-homophone error: 'por qué' (why, two words, with accent) was glossed with the meaning of 'porque' (because, one word, no accent) -- a common confusion pair, and the kind of error that silently corrupts downstream translation-pair training data if not caught",resolved
+0009,row_13,english,eat,inconsistency,to eat,low,"All other verb infinitives in the dataset are glossed with 'to + verb' (to run, to speak, to work) -- this entry broke that convention",resolved

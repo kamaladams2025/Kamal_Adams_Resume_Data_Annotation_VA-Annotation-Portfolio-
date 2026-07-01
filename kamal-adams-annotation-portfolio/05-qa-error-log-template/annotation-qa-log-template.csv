@@ -1,0 +1,4 @@
+log_id,dataset_name,row_reference,field,original_value,issue_type,corrected_value,severity,reviewer_note,status
+0001,example-dataset,row_12,pos_tag,N,mislabel,V,high,"Tagged as noun but functions as verb in this context",resolved
+0002,example-dataset,row_45,translation,(blank),missing_data,added_translation,medium,"Source field left empty -- filled and flagged for second-reviewer confirmation",pending_review
+0003,example-dataset,row_78,formatting,extra_whitespace,formatting,trimmed,low,"Trailing whitespace causing exact-match failures downstream",resolved

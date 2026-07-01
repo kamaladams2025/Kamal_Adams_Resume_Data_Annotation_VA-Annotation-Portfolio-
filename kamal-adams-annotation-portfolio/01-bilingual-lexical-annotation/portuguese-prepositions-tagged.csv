@@ -1,0 +1,14 @@
+portuguese,english,frequency_rank,pos_tag,confidence_flag,notes
+de,"of, from",1,PREP,high,"True preposition; also forms contractions (do, da, dos, das)"
+em,"in, on, at",2,PREP,high,"True preposition; contracts with articles (no, na)"
+para,"for, to",3,PREP,high,True preposition
+com,with,4,PREP,high,True preposition
+por,"for, by, through",5,PREP,high,"True preposition; contracts as pelo/pela"
+a,"to, at",6,PREP,medium,"Preposition in this context, but also functions as feminine definite article -- POS depends on syntactic position"
+e,and,7,CONJ,high,"Coordinating conjunction, not a preposition -- mislabeled in source list"
+mas,but,8,CONJ,high,"Coordinating conjunction, not a preposition -- mislabeled in source list"
+ou,or,9,CONJ,high,"Coordinating conjunction, not a preposition -- mislabeled in source list"
+que,"that, which",10,CONJ/PRON,low,"Functions as subordinating conjunction or relative pronoun depending on clause structure; mislabeled as preposition in source list"
+se,if,11,CONJ/PRON,low,"Functions as subordinating conjunction (if) or reflexive/impersonal pronoun depending on context; mislabeled as preposition in source list"
+como,"as, like, how",12,PREP/CONJ/ADV,low,"Genuinely ambiguous: preposition (comparison), conjunction (causal), or interrogative adverb (how) depending on context"
+porque,because,13,CONJ,high,"Causal conjunction, not a preposition -- mislabeled in source list"
